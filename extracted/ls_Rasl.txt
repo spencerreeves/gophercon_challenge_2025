@@ -1,0 +1,117 @@
+/tmp:
+total 36
+     8 drwxrwxrwt    1 root     root          4096 Aug 28 20:05 .
+     4 drwxr-xr-x    1 root     root          4096 Aug 28 14:47 ..
+     4 drwx------    3 root     root          4096 Aug 28 19:59 go-build1716684767
+     4 drwx------    3 root     root          4096 Aug 28 15:15 go-build2483417792
+     4 drwx------    3 root     root          4096 Aug 28 19:57 go-build330175535
+     4 drwx------    3 root     root          4096 Aug 28 20:05 go-build3902133678
+     4 drwxr-xr-x    1 root     root          4096 Aug 28 20:05 mt-work
+     4 -rw-r--r--    1 root     root            43 Aug 26 16:24 treat.txt
+
+/tmp/go-build1716684767:
+total 16
+     4 drwx------    3 root     root          4096 Aug 28 19:59 .
+     8 drwxrwxrwt    1 root     root          4096 Aug 28 20:05 ..
+     4 drwxr-xr-x    3 root     root          4096 Aug 28 19:59 b001
+
+/tmp/go-build1716684767/b001:
+total 76
+     4 drwxr-xr-x    3 root     root          4096 Aug 28 19:59 .
+     4 drwx------    3 root     root          4096 Aug 28 19:59 ..
+    44 -rw-r--r--    1 root     root         44746 Aug 28 19:59 _pkg_.a
+     4 drwxr-xr-x    2 root     root          4096 Aug 28 19:59 exe
+     4 -rw-r--r--    1 root     root           456 Aug 28 19:59 importcfg
+    16 -rw-r--r--    1 root     root         15961 Aug 28 19:59 importcfg.link
+
+/tmp/go-build1716684767/b001/exe:
+total 4672
+     4 drwxr-xr-x    2 root     root          4096 Aug 28 19:59 .
+     4 drwxr-xr-x    3 root     root          4096 Aug 28 19:59 ..
+  4664 -rwxr-xr-x    1 root     root       4771992 Aug 28 19:59 usercode
+
+/tmp/go-build2483417792:
+total 16
+     4 drwx------    3 root     root          4096 Aug 28 15:15 .
+     8 drwxrwxrwt    1 root     root          4096 Aug 28 20:05 ..
+     4 drwxr-xr-x    3 root     root          4096 Aug 28 15:15 b001
+
+/tmp/go-build2483417792/b001:
+total 108
+     4 drwxr-xr-x    3 root     root          4096 Aug 28 15:15 .
+     4 drwx------    3 root     root          4096 Aug 28 15:15 ..
+    76 -rw-r--r--    1 root     root         75376 Aug 28 15:15 _pkg_.a
+     4 drwxr-xr-x    2 root     root          4096 Aug 28 15:15 exe
+     4 -rw-r--r--    1 root     root           565 Aug 28 15:15 importcfg
+    16 -rw-r--r--    1 root     root         15961 Aug 28 15:15 importcfg.link
+
+/tmp/go-build2483417792/b001/exe:
+total 5136
+     4 drwxr-xr-x    2 root     root          4096 Aug 28 15:15 .
+     4 drwxr-xr-x    3 root     root          4096 Aug 28 15:15 ..
+  5128 -rwxr-xr-x    1 root     root       5247128 Aug 28 15:15 usercode
+
+/tmp/go-build330175535:
+total 16
+     4 drwx------    3 root     root          4096 Aug 28 19:57 .
+     8 drwxrwxrwt    1 root     root          4096 Aug 28 20:05 ..
+     4 drwxr-xr-x    3 root     root          4096 Aug 28 19:57 b001
+
+/tmp/go-build330175535/b001:
+total 76
+     4 drwxr-xr-x    3 root     root          4096 Aug 28 19:57 .
+     4 drwx------    3 root     root          4096 Aug 28 19:57 ..
+    44 -rw-r--r--    1 root     root         44742 Aug 28 19:57 _pkg_.a
+     4 drwxr-xr-x    2 root     root          4096 Aug 28 19:57 exe
+     4 -rw-r--r--    1 root     root           456 Aug 28 19:57 importcfg
+    16 -rw-r--r--    1 root     root         15960 Aug 28 19:57 importcfg.link
+
+/tmp/go-build330175535/b001/exe:
+total 4672
+     4 drwxr-xr-x    2 root     root          4096 Aug 28 19:57 .
+     4 drwxr-xr-x    3 root     root          4096 Aug 28 19:57 ..
+  4664 -rwxr-xr-x    1 root     root       4771992 Aug 28 19:57 usercode
+
+/tmp/go-build3902133678:
+total 16
+     4 drwx------    3 root     root          4096 Aug 28 20:05 .
+     8 drwxrwxrwt    1 root     root          4096 Aug 28 20:05 ..
+     4 drwxr-xr-x    3 root     root          4096 Aug 28 20:05 b001
+
+/tmp/go-build3902133678/b001:
+total 156
+     4 drwxr-xr-x    3 root     root          4096 Aug 28 20:05 .
+     4 drwx------    3 root     root          4096 Aug 28 20:05 ..
+   124 -rw-r--r--    1 root     root        124788 Aug 28 20:05 _pkg_.a
+     4 drwxr-xr-x    2 root     root          4096 Aug 28 20:05 exe
+     4 -rw-r--r--    1 root     root          1125 Aug 28 20:05 importcfg
+    16 -rw-r--r--    1 root     root         16073 Aug 28 20:05 importcfg.link
+
+/tmp/go-build3902133678/b001/exe:
+total 4808
+     4 drwxr-xr-x    2 root     root          4096 Aug 28 20:05 .
+     4 drwxr-xr-x    3 root     root          4096 Aug 28 20:05 ..
+  4800 -rwxr-xr-x    1 root     root       4911256 Aug 28 20:05 usercode
+
+/tmp/mt-work:
+total 20
+     4 drwxr-xr-x    1 root     root          4096 Aug 28 20:05 .
+     8 drwxrwxrwt    1 root     root          4096 Aug 28 20:05 ..
+     4 drwx------    2 root     root          4096 Aug 28 20:05 go-2423033875
+     4 drwx------    2 root     root          4096 Aug 28 20:04 go-2760227631
+
+/tmp/mt-work/go-2423033875:
+total 20
+     4 drwx------    2 root     root          4096 Aug 28 20:05 .
+     4 drwxr-xr-x    1 root     root          4096 Aug 28 20:05 ..
+     4 -rw-r--r--    1 root     root            27 Aug 28 20:05 go.mod
+     4 -rw-r--r--    1 root     root          3177 Aug 28 20:05 main.go
+     4 -rw-r--r--    1 root     root            41 Aug 28 20:05 runner.go
+
+/tmp/mt-work/go-2760227631:
+total 20
+     4 drwx------    2 root     root          4096 Aug 28 20:04 .
+     4 drwxr-xr-x    1 root     root          4096 Aug 28 20:05 ..
+     4 -rw-r--r--    1 root     root            27 Aug 28 20:04 go.mod
+     4 -rw-r--r--    1 root     root          3177 Aug 28 20:04 main.go
+     4 -rw-r--r--    1 root     root            41 Aug 28 20:04 runner.go
